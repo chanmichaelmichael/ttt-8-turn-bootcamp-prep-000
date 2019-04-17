@@ -14,7 +14,7 @@ def valid_move?(board, i)
   end
 end
 
-def move(board,i)
+def move(board,i,token="X")
   
 end
 
