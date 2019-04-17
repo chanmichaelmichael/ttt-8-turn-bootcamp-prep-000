@@ -1,5 +1,5 @@
 def turn()
-
+  puts "turn does nothing yet"
 end
 
 def display_board(board)
