@@ -13,3 +13,7 @@ end
 def move()
   
 end
+
+def input_to_index()
+  
+end
