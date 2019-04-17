@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 def valid_move?(board, i)
-
+  if !i.between?()
 end
 
 def move()
