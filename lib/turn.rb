@@ -1,4 +1,4 @@
-def turn()
+def turn(board)
   puts "Please enter 1-9:"
   input = input_to_index(gets.chomp.strip)
   if valid_move?(board, input)
