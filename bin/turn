@@ -8,6 +8,7 @@ display_board(board)
 turn()
 index = input_to_index(gets.chomp.strip)
 if 
+  
 else
-  turn
+  turn()
 end
