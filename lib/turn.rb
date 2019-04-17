@@ -10,4 +10,6 @@ def valid_move?(board, i)
 
 end
 
-def 
+def move()
+  
+end
