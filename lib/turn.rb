@@ -15,7 +15,7 @@ def valid_move?(board, i)
 end
 
 def move(board,i,token="X")
-  
+  board[i]=token
 end
 
 def input_to_index(i)
