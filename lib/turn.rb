@@ -30,5 +30,6 @@ def move(board,i,token="X")
 end
 
 def input_to_index(i)
+  i = i.to_i
   i = i - 1
 end
