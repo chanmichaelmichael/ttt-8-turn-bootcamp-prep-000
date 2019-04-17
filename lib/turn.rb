@@ -8,6 +8,10 @@ end
 
 def valid_move?(board, i)
   if !i.between?(0,8) || board[i] == "" || board[i] == " "
+    FALSE
+  else
+    TRUE
+  end
 end
 
 def move()
